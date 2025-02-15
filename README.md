@@ -1,5 +1,3 @@
-### **README.md for StegoShield**
-```markdown
 # StegoShield 🛡️  
 A secure **Image Steganography** tool that hides and extracts secret messages within images using the **Least Significant Bit (LSB) technique**. Built with **Python** and **Tkinter GUI**, this tool ensures data security with password protection.
 
