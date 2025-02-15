@@ -1,13 +1,3 @@
-Great choice! 🎉 I'll create a **README.md** for your **StegoShield** repository. Here's what it will include:  
-
-✅ **Project Overview**  
-✅ **Features**  
-✅ **Installation & Usage Instructions**  
-✅ **Technologies Used**  
-✅ **Contributing & License Sections**  
-
----
-
 ### **README.md for StegoShield**
 ```markdown
 # StegoShield 🛡️  
@@ -61,19 +51,4 @@ Contributions are welcome! If you’d like to improve StegoShield, fork the repo
 This project is licensed under the **MIT License**. Feel free to use and modify it!  
 
 ---
-🔹 **Developed by [Saket Chaudhary](https://github.com/Saket22-CS)**  
-```
-
----
-
-### **Next Steps**
-📌 **Create a `requirements.txt` file** with:  
-```bash
-opencv-python
-numpy
-tk
-```
-📌 **Upload your Python files to the repository**  
-📌 **Commit and push the README.md**  
-
-Let me know if you need any modifications! 🚀🔥
+🔹 **Developed by [Saket Chaudhary](https://github.com/Saket22-CS)** 
