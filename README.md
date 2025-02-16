@@ -1,4 +1,4 @@
-#🛡️StegoShield  
+# **🛡️ StegoShield**
 *A Secure Image Steganography Tool using LSB Technique*  
 
 🔗 **[Demo Video](https://www.awesomescreenshot.com/video/36651748?key=0e8fbd42e35b1abd0fe5e3e31b235e8f)**  
